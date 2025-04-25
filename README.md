@@ -1,2 +1,0 @@
-# InventarioDigitalER
-Inventario Digital TRANSRED
